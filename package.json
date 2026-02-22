@@ -1,0 +1,24 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Practicing testing with Jest",
+  "main": "capitalizer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avraneel/jest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avraneel/jest-test/issues"
+  },
+  "homepage": "https://github.com/avraneel/jest-test#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
