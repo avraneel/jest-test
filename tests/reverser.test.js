@@ -1,4 +1,4 @@
-import { reverser } from "./reverser";
+import { reverser } from "../src/reverser";
 
 test("reverse test", () => {
   expect(reverser("palindrome")).toBe("emordnilap");
